@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" shape-rendering="crispEdges">
+  <defs>
+    <pattern id="gold" width="4" height="4" patternUnits="userSpaceOnUse">
+      <path fill="#f9b52c" d="M0 0h4v4H0z"/>
+      <path fill="#ffd655" d="M0 0h2v2H0zm2 2h2v2H2z"/>
+    </pattern>
+  </defs>
+  <path fill="#211544" d="M36 7h24v4h8v8h4v26h-4v12h-5v10h-5v9h-6v8h-8v4H32v-4h-8V74h-4V58h4V42h4V28h4V15h4z"/>
+  <path fill="#a45926" d="M40 12h18v4h8v27h-4v12h-5v10h-5v9h-6v8H33v-4h-5V59h4V43h4V28h4z"/>
+  <path fill="url(#gold)" d="M42 12h15v4h6v20h-4v14h-5v11h-6v11h-6v7H31V59h4V43h4V27h3z"/>
+  <path fill="#fff2a6" d="M44 13h12v4H46v12h-3v14h-4v15h-4V45h3V28h4V16h2z"/>
+  <path fill="#ad6325" d="M54 24h4v12h-4v11h-4v10h-4v10h-4V55h4V45h4V34h4z"/>
+  <path fill="#ffe077" d="M14 22h3v7h7v3h-7v7h-3v-7H7v-3h7zm66 24h3v6h6v3h-6v6h-3v-6h-6v-3h6zM66 73h3v5h5v3h-5v5h-3v-5h-5v-3h5z"/>
+</svg>
